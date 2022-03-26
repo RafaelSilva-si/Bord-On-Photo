@@ -12,7 +12,7 @@ Teste para Processo seletivo.
 
 🔗 https://border-on-photo.herokuapp.com/
 
-![simplescreenrecorder-2021-09-22_11 27 59](https://user-images.githubusercontent.com/77937182/160217791-aa94876a-d42b-480a-9bc8-7ff7bd53bfba.gif)</br>
+![simplescreenrecorder-2022-03-25_21 47 27](https://user-images.githubusercontent.com/77937182/160217965-8671e99e-6f78-4921-a026-d415addd9cb5.gif)</br>
 ## Teste
   
 1 - receber o upload do Frame (exemplo anexo)</br>
